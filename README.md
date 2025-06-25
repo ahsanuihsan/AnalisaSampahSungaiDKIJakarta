@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive-orange.svg)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-yellow.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
 Selamat datang di proyek analisis lingkungan interaktif! 🚀 Proyek ini menggunakan **Jupyter Notebook** untuk menganalisis **volume sampah sungai** di DKI Jakarta berdasarkan dataset `RataRataVolumeSampahSungaiDKIJakarta.csv`. Dengan visualisasi **Plotly**, Anda dapat menjelajahi data dari Januari hingga Mei 2025 dengan fitur seperti *hover*, *zoom*, dan *filter*. Ideal untuk peneliti, penggiat lingkungan, atau siapa saja yang peduli dengan isu sampah! 🌏
